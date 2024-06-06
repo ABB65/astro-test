@@ -150,5 +150,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "publishDate",
+    "fieldId": "publishdate",
+    "modelId": "blog",
+    "componentId": "date",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
