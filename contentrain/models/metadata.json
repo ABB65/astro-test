@@ -15,5 +15,13 @@
     "type": "JSON",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "categories",
+    "modelId": "categories",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
