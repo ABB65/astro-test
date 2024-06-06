@@ -101,5 +101,18 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "blog",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
   }
 ]
