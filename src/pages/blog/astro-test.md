@@ -1,0 +1,23 @@
+---
+ID: "be6a174748f6"
+createdAt: "Thu Jun 06 2024 15:17:37 GMT+0300 (GMT+03:00)"
+updatedAt: "Thu Jun 06 2024 15:17:37 GMT+0300 (GMT+03:00)"
+slug: "astro-test"
+layout: "../../layouts/Post.astro"
+title: "Lorem ipsum dolor sit amet, consectetu"
+description: "Lorem ipsum dolor sit amet, consectetu"
+author: "Test Dev"
+image: "public/assets/blog/1717676335929_PJ-Mask-Wings-563x495.jpg"
+alt: "Deneme"
+publishdate: "2024-06-06T12:19:00.000Z"
+tags:
+  - "test"
+  - "product"
+  - "brands"
+status: "publish"
+scheduled: false
+path: "src/pages/blog"
+---
+**Test**
+
+##### test
