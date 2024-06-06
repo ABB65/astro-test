@@ -71,5 +71,18 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "price",
+    "fieldId": "price",
+    "modelId": "product",
+    "componentId": "integer",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "number"
   }
 ]
