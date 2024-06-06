@@ -58,5 +58,18 @@
     "system": true,
     "defaultField": false,
     "modelId": "product"
+  },
+  {
+    "name": "name",
+    "fieldId": "name",
+    "modelId": "product",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
   }
 ]
