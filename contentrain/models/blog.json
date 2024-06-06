@@ -88,5 +88,18 @@
     "system": true,
     "defaultField": false,
     "modelId": "blog"
+  },
+  {
+    "name": "layout",
+    "fieldId": "layout",
+    "modelId": "blog",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
   }
 ]
