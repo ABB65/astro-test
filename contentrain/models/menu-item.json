@@ -80,5 +80,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "image",
+    "fieldId": "image",
+    "modelId": "menu-item",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
