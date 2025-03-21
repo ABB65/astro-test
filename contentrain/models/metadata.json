@@ -23,5 +23,14 @@
     "type": "JSON",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "Menu Item",
+    "description": "Menu items",
+    "modelId": "menu-item",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
