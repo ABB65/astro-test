@@ -9,5 +9,15 @@
     "type": "text",
     "status": "draft",
     "scheduled": false
+  },
+  {
+    "ID": "f23510349746",
+    "createdAt": "Fri Mar 21 2025 15:23:37 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Mar 21 2025 15:23:37 GMT+0300 (GMT+03:00)",
+    "link": "https://bloomandfresh.com/cicek",
+    "icon-name": "social-icon",
+    "type": "icon",
+    "status": "draft",
+    "scheduled": false
   }
 ]
