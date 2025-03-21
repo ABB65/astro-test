@@ -1,0 +1,13 @@
+[
+  {
+    "ID": "6eaffcb1ac54",
+    "createdAt": "Fri Mar 21 2025 15:23:16 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Mar 21 2025 15:23:16 GMT+0300 (GMT+03:00)",
+    "link": "https://bloomandfresh.com/hediye",
+    "label": "bu text",
+    "image": "public/assets/blog/1717676335929_PJ-Mask-Wings-563x495.jpg",
+    "type": "text",
+    "status": "draft",
+    "scheduled": false
+  }
+]
