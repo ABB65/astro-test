@@ -58,5 +58,23 @@
     "system": true,
     "defaultField": false,
     "modelId": "header"
+  },
+  {
+    "name": "items",
+    "fieldId": "items",
+    "modelId": "header",
+    "componentId": "one-to-many",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "menu-item"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
