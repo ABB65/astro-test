@@ -65,7 +65,11 @@
     "modelId": "menu-item",
     "componentId": "url",
     "options": {},
-    "validations": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
     "fieldType": "string"
   },
   {
