@@ -58,5 +58,21 @@
     "system": true,
     "defaultField": false,
     "modelId": "urls"
+  },
+  {
+    "name": "url",
+    "fieldId": "url",
+    "modelId": "urls",
+    "componentId": "url",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      },
+      "unique-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
   }
 ]
