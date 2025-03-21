@@ -89,5 +89,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "icon-name",
+    "fieldId": "icon-name",
+    "modelId": "menu-item",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
