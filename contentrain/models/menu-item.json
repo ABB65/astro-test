@@ -98,5 +98,23 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "type",
+    "fieldId": "type",
+    "modelId": "menu-item",
+    "componentId": "single-line-text",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "text"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
   }
 ]
